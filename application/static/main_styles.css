@@ -1,5 +1,5 @@
 body {
-    background-color: linen;
+    background-color: rgb(119, 71, 24);
     margin: 20px;
     font-family: Cambria, Verdana, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -26,14 +26,14 @@ footer {
 .joke { background-color: cadetblue;
         padding: 1%;
         color: white;
-        font-family: Verdana, serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .question {
         font-weight: bolder;
 }
 
 .button {
-  background-color: rgb(224, 173, 44);
+  background-color: rgb(123, 67, 212);
   border: none;
   color: white;
   padding: 15px 32px;
